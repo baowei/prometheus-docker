@@ -1,0 +1,5 @@
+1、 启动：
+    在当前目录执行：docker-compose up -d
+2、访问：
+    grafana:    http:localhost:3000     admin admin
+    prometheus: http:localhost:9090
